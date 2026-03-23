@@ -18,7 +18,7 @@ https://pro.arcgis.com/en/pro-app/3.4/tool-reference/data-management/enable-edit
 ===============================================================================
 """
 
-def EditorTracking(geodatabse,feature_class):
+def EditorTracking(geodatabase,feature_class):
     arcpy.env.workspace=geodatabase
     arcpy.management.EnableEditorTracking(feature_class,"Creator","Created",
                                           "Editor","Edited","ADD_FIELDS","UTC")
