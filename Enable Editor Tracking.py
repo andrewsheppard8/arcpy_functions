@@ -3,18 +3,15 @@
 Script Name:       Enable Editor Tracking
 Author:            Andrew Sheppard
 Role:              GIS Solutions Engineer
-Email:             asheppard@mgt.us
+Email:             andrewsheppard8@gmail.com
 Date Created:      2026-03-23
 
 Description:
 -------------
 Enabling editor tracking on feature class
 
-Part of a larger script. To see original usage, see Geocoding from Excel script in arcpy_scripts
-
-Follow link for full description of ESRI tool:
-https://pro.arcgis.com/en/pro-app/3.4/tool-reference/data-management/enable-editor-tracking.htm
-
+NOTE: These were part of a larger script and are not guarenteed to work out of the box.
+        See Script "Geocoding from Excel.py" in arcpy_scripts repo for details.
 ===============================================================================
 """
 

@@ -3,7 +3,7 @@
 Script Name:       Adding fields in feature class using ArcPy
 Author:            Andrew Sheppard
 Role:              GIS Solutions Engineer
-Email:             asheppard@mgt.us
+Email:             andrewsheppard8@gmail.com
 Date Created:      2026-03-23
 
 Description:
@@ -13,12 +13,8 @@ feature class in a geodatabase. This process will loop through all fields in the
 class, and if the field exists, it will skip it. If it does not exist, it will create it.
 This isn't a full breakdown of the syntax of the Arcpy Add Field tool.
 
-This function can be copied directly to create a simple Geoprocessing tool in a custom toolbox
-within ArcGIS Pro.
-
-Follow link for full description of ESRI tool:
-
-https://pro.arcgis.com/en/pro-app/3.4/tool-reference/data-management/add-field.htm
+NOTE: These were part of a larger script and are not guarenteed to work out of the box.
+        See Script "Geocoding from Excel.py" in arcpy_scripts repo for details.
 
 ===============================================================================
 """
