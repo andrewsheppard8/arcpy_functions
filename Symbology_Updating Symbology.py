@@ -15,7 +15,6 @@ Description:
 NOTE: Map object (map_obj) previously created using aprx.CreateMap in parent script.
 NOTE: These were part of a larger script and are not guarenteed to work out of the box.
         See Script "Geocoding from Excel.py" in arcpy_scripts repo for details.
-
 ===============================================================================
 """
 
